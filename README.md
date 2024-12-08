@@ -1,24 +1,70 @@
-Privacy and Data Privacy Policy
-This Data Privacy Policy is hereby adopted in compliance with Republic Act No. 10173 or the Data Privacy Act of 2013, its implementing Rules and Regulations and other relevant policies including issuances of the National Privacy Commission, in relation to the collection, holding processing and use of personal information which may include special categories of data.
- STS. PETER AND PAUL PARISH, POBLACION (“SPPP”/ ”Parish”), MAKATI is a Parish within the jurisdiction of the ROMAN CATHOLIC ARCHBISHOP OF MANILA, a duly registered Corporation Sole. As a Parish, it takes care of the religious, spiritual, social, economic, and cultural affairs and temporal properties of the Church within its jurisdiction. 
-This Policy seeks to inform and guide all the parishioners, benefactors, donors, beneficiaries, guests, friends, as well as all employees about the data gathering and protection of the Parish, and serves as a guide to all persons in exercising their rights under the Data Privacy Act (DPA).
- GENERAL PRIVACY POLICY
- STS. PETER AND PAUL PARISH adheres to the general principles of transparency, legitimate purpose, and proportionality in the collection, processing, securing, retention, and disposal of personal information and sensitive personal information of the parishioners, benefactors, donors, beneficiaries, guests, friends, as well as employees whose personal information and sensitive personal information are being collected. The data subjects shall be informed of the reason or purpose of gathering, collecting, recording, and processing of personal data.
- The data subjects have the right to correct any information, especially in the case of erroneous or outdated data, and to object to the collection of personal information within the bounds of the law.
- STS. PETER AND PAUL PARISH shall secure the personal information and sensitive personal information of data subjects and shall take adequate measures to secure both physical and digital copies of the information. The Parish shall ensure that the information is collected and processed only by the duly appointed and authorized Data Privacy Officer. The data subjects may inquire or request information from the Data Privacy Officer regarding any matter relating to the processing of their personal data.
+# Privacy and Data Privacy Policy
 
+This **Data Privacy Policy** is hereby adopted in compliance with **Republic Act No. 10173** or the **Data Privacy Act of 2013**, its Implementing Rules and Regulations, and other relevant policies, including issuances of the National Privacy Commission, in relation to the collection, holding, processing, and use of personal information, which may include special categories of data.
 
- PRIVACY POLICY STATEMENT 
-	•	Data subjects are notified, and their consent is secured.
-	•	Access is limited only to the Data Privacy Officer or any authorized personnel for legitimate purposes.
-	•	Information is reasonably necessary and directly related to the purpose.
-	•	The data subjects shall have the right to object to the processing of his or her personal data.
-	•	The data subjects have the right to reasonable access to, upon demand, contents of his or her personal data that were processed, sources from which personal data were obtained, name and addresses of recipients of the personal data, manner by which his or her personal data were processed, among others.
-	•	The data subjects shall have the right to dispute the inaccuracy and rectify the information especially in cases of erroneous or outdated data, and to object to collection of personal information within the bounds allowed by privacy and education laws.
-	•	The data subject shall have the right to suspend, withdraw, or order the blocking, removal, or destruction of his or her personal data from the SPPP’s filing system.
-	•	The data subjects have the right to file a complaint if personal information or sensitive personal information has been misused, maliciously disclosed, or improperly disposed of, or if there is any violation of their data privacy rights.
-	•	Any suspected or actual breach of the SPPP’s Data privacy policy must be reported to any member of the Data Privacy Response Committee in accordance with the procedure provided in the Data Privacy Manual. 
-	•	The data subjects shall have to be indemnified for any damages sustained due to inaccurate, incomplete, outdated, or unlawfully obtained personal information or sensitive personal information.
-	•	Data subjects may inquire or request for information from the Data Privacy Response Committee, regarding any matter relating to the processing of their personal data under the custody of the Parish including the data privacy and security policies implemented to ensure the protection of their personal data pursuant to the Data Privacy Manual.
-	•	SPPP shall secure the personal information of parishioners, benefactors, donors, beneficiaries, guests, friends, as well as employees from whom personal information is collected and shall take adequate measures to secure both physical and digital copies of the information.
-	•	Any information that is declared obsolete based on the internal privacy and retention procedures of the Parish shall be disposed of in a secure and legal manner. 
+## About the Parish  
+**STS. PETER AND PAUL PARISH, POBLACION (“SPPP” / “Parish”), MAKATI** is a Parish within the jurisdiction of the **ROMAN CATHOLIC ARCHBISHOP OF MANILA**, a duly registered Corporation Sole. The Parish oversees the religious, spiritual, social, economic, and cultural affairs, as well as the temporal properties of the Church within its jurisdiction.
+
+This policy aims to inform and guide parishioners, benefactors, donors, beneficiaries, guests, friends, and employees about the data gathering and protection practices of the Parish. It also serves as a guide to exercising their rights under the **Data Privacy Act (DPA)**.
+
+---
+
+## General Privacy Policy
+
+**STS. PETER AND PAUL PARISH** adheres to the general principles of **transparency**, **legitimate purpose**, and **proportionality** in the collection, processing, securing, retention, and disposal of personal and sensitive personal information.
+
+- **Transparency:** Data subjects will be informed of the purpose of collecting, recording, and processing their personal data.  
+- **Accuracy:** Data subjects have the right to correct any erroneous or outdated information.  
+- **Security:** The Parish will ensure the security of both physical and digital copies of personal information. Only the duly appointed **Data Privacy Officer (DPO)** and authorized personnel will have access to these records.
+
+Data subjects may inquire or request information from the **Data Privacy Officer** regarding the processing of their personal data.
+
+---
+
+## Privacy Policy Statement
+
+The Parish upholds the following rights and responsibilities related to data privacy:
+
+- **Notification and Consent:**  
+  Data subjects are notified, and their consent is secured for the collection and processing of personal data.  
+
+- **Access Limitation:**  
+  Access is restricted to the **Data Privacy Officer** or authorized personnel for legitimate purposes.  
+
+- **Purposeful Collection:**  
+  Information collected is necessary and directly related to its intended purpose.  
+
+- **Right to Object:**  
+  Data subjects may object to the processing of their personal data.  
+
+- **Access to Information:**  
+  Upon demand, data subjects may access the following:  
+  - Contents of their processed personal data  
+  - Sources of personal data  
+  - Names and addresses of recipients  
+  - Manner of processing  
+
+- **Right to Rectify:**  
+  Data subjects may dispute inaccuracies and correct erroneous or outdated information.  
+
+- **Right to Suspend or Withdraw:**  
+  Data subjects can suspend, withdraw, or request the removal or destruction of their personal data from the Parish’s records.  
+
+- **Right to File Complaints:**  
+  Complaints may be filed if personal information is misused, disclosed maliciously, improperly disposed of, or if privacy rights are violated.  
+
+- **Reporting Breaches:**  
+  Suspected or actual breaches of the Parish’s data privacy policies must be reported to the **Data Privacy Response Committee** as outlined in the **Data Privacy Manual**.  
+
+- **Indemnification:**  
+  Data subjects may seek damages for any inaccuracies, incompleteness, or unlawfully obtained personal information.  
+
+- **Information Requests:**  
+  Data subjects may request information regarding the Parish’s data privacy and security policies from the **Data Privacy Response Committee**.  
+
+- **Secure Disposal:**  
+  Obsolete information will be disposed of securely and in compliance with internal privacy and retention procedures.
+
+---
+
+This policy underscores the Parish’s commitment to ensuring the protection and responsible management of personal data, in alignment with the principles of the **Data Privacy Act of 2013**.
